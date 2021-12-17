@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Tina 👩‍💻
-- 🌱 I'm looking to be part of an iOS mobile application development team
-- 😄 I’m a constant learner, a boba tea connoisseur, and a cat lover
+- 🌱 I’m a constant learner, a boba tea connoisseur, and a cat lover
 - ❤ I’m passionate about enhancing people’s digital experience through intuitive software and purposeful design
 - 🙈 Fun fact: I love durian
 
